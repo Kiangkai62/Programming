@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Administrator"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2562-08-03 09:43:43 PM"/>
+        <attribute name="created" value="QWRtaW5pc3RyYXRvcjtGMlJINTE3T0pEQ1dRSFY7MjU2Mi0wOC0wMzswODozNzoxMyBQTTszNzE0"/>
+        <attribute name="edited" value="QWRtaW5pc3RyYXRvcjtGMlJINTE3T0pEQ1dRSFY7MjU2Mi0wOC0wMzswOTo0Mzo0MyBQTTs1OzM4Mjc="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="B" type="Real" array="False" size=""/>
+            <declare name="D" type="Real" array="False" size=""/>
+            <declare name="F" type="Real" array="False" size=""/>
+            <declare name="H" type="Real" array="False" size=""/>
+            <assign variable="B" expression="40"/>
+            <assign variable="D" expression="45"/>
+            <assign variable="F" expression="50"/>
+            <assign variable="H" expression="60"/>
+            <output expression="&quot;Foundation English&quot;&amp;B" newline="True"/>
+            <output expression="&quot;Geuneral Business&quot;&amp;D" newline="True"/>
+            <output expression="&quot;Introduction to Computer Systems&quot;&amp;F" newline="True"/>
+            <output expression="&quot;Computer Programming&quot;&amp;H" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
